@@ -7,7 +7,10 @@ int main()
 	float R;
 	R = ( R1 * R2 * R3 ) / ( R2 * R3 + R1 * R3 + R1 * R2 );
 	return 0;
+}
 
+int main()
+{
 	//task 2
 	const int X = 321;
 	int a = X / 100;
@@ -15,7 +18,10 @@ int main()
 	int c = X % 10;
 	int result = c * 100 + b * 10 + a;
 	return 0;
+}
 
+int main()
+{
 	//task 3
 	const float X = 4;
 	a = a * a; //2
@@ -33,7 +39,10 @@ int main()
 	b = b * b; //8
 	a = b * a; //10
 	return 0;
+}
 
+int main()
+{
 	//task 4
 	const int P = 8;
 	int x = 4512;
@@ -43,7 +52,10 @@ int main()
 	int x4 = a % 10; //2
 	int result = x4 * 1 + x3 * P + x2 * P * P + x1 * p * p * p;
 	return 0;
+}
 
+int main()
+{
 	//task 5
 	const int X = 123;
 	float a1 = X / 100; //1
@@ -53,7 +65,10 @@ int main()
 	int z = (int) y; //33
 	float result = (float) z / 100; //0.3300000
 	return 0;
+}
 
+int main()
+{
 	//task 6
 	const float A = 50;
 	const float B = 52;
