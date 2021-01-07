@@ -45,20 +45,20 @@
 
 1. Програма вираховує корінь числа.  (див. рис. 2). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/main.c_t1.png)
 
 Рисунок 2 – схема алгоритму задачі №1.
 
 2. Програма визначає, послідовність елементів масиву, які є простими числами, та що не повторюються. (див. рис. 3). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/main.c_t2.png)
 
 Рисунок 3 – схема алгоритму задачі №2.
 
 
 3. Програма вираховує кількість пар, в яких перше число менше другого із застосуванням варіативної функції  (див. рис. 4). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/main.c_t3.png)
 
 Рисунок 4 – схема алгоритму задачі №3.
 
@@ -66,13 +66,13 @@
 
 В структурі програми додался Doxyfile для генерації Doxygen (див. рис. 5). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/Doxygen.png)
 
 Рисунок 5 – згенерований Doxyfile. 
 
 Запуск Doxygen за допомогою виклику dist/html => firefox index.html (див. рис. 6)
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/index_html.png)
 
 Рисунок 6 – демонстрація документації Doxygen. 
 
@@ -84,13 +84,13 @@
 
 #### Задача №1 (див. рис. 7). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/task1.png)
 
 Рисунок 7  – результат виконання задачі №1.
 
 #### Задача №2 (див. рис. 8). 
 
-![]()
+![](https://github.com/conf1cker/programminglab/blob/master/lab10/doc/assets/task2.png)
 
 Рисунок 8 – результат виконання задачі №2.
 
